@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nediff Amala Nixon</h1>
 <h3 align="center">Unveiling Insights from Data: My Data Science Journey 📊✨</h3>
-<img img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif”>
+<img align="right" alt="Data" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nediffnixon&label=Profile%20views&color=0e75b6&style=flat" alt="nediffnixon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nediffnixon" alt="nediffnixon" /></a> </p>
 
 - 🔭 I’m currently working on **Generative AI for class imbalance problems**
 
