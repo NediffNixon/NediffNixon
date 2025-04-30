@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nediffnixon&label=Profile%20views&color=0e75b6&style=flat" alt="nediffnixon" /> </p>
 
-- 🔭 I’m currently working on **Generative AI for class imbalance problems**
+- 🔭 I’m currently working on **UK Land Cover Time Series Forecasting**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Python, Machine learning, SQL**
 
