@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nediffnixon@gmail.com**
 
-- ⚡ Fun fact **I turn coffee into code and data into discoveries! ☕💻📈**
+- ⚡ Fun fact **My hobbies include overfitting for fun 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
