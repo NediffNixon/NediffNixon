@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Python, Machine learning, SQL**
+- 💬 Ask me about **Python, Machine learning, SQL, Time Series Forecasting, Spatial Analysis**
 
 - 📫 How to reach me **nediffnixon@gmail.com**
 
